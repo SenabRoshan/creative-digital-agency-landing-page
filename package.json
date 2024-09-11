@@ -1,4 +1,12 @@
 {
+  "name": "creative-digital-agency-landing-page",
+  "version": "1.0.0",
+  "description": "A landing page for a creative digital agency built with Node.js and Express.js.",
+  "main": "mail.js",
+  "scripts": {
+    "start": "node mail.js",  
+    "dev": "nodemon mail.js"  
+  },
   "dependencies": {
     "express": "^4.19.2",
     "nodemailer": "^6.9.14",
