@@ -1683,7 +1683,7 @@ video {
   /* contact us section */
   .content6 {
     padding: 1.5rem;
-    height: 160vh;
+    height: 180vh;
   }
 
   .content6 .about-us-p1 {
@@ -1809,7 +1809,7 @@ video {
 
   /* footer section */
   .footer {
-    height: 100vh;
+    height: 120vh;
     bottom: 0;
     padding: 50px 0;
   }
