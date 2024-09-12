@@ -1524,13 +1524,13 @@ video {
 
   /* about-us section */
   .content2 {
-    height: 103vh;
+    height: 123vh;
     margin-top: 50px;
   }
   .content2 .about-us-p1 {
     gap: 5px;
     margin-right: 0%;
-    padding-top: 40px;
+    padding-top: 35%;
   }
 
   .about-us-p2 {
@@ -1606,7 +1606,7 @@ video {
   }
 
   .content3 {
-    height: 195vh;
+    height: 210vh;
   }
 
   .container {
@@ -1639,7 +1639,7 @@ video {
   /* gallery */
   .content4 {
     margin-top: 150px;
-    height: 91vh;
+    height: 96vh;
   }
   .content4 .about-us-p1 {
     display: flex;
@@ -1683,7 +1683,7 @@ video {
   /* contact us section */
   .content6 {
     padding: 1.5rem;
-    height: 152vh;
+    height: 160vh;
   }
 
   .content6 .about-us-p1 {
@@ -1747,7 +1747,7 @@ video {
   /* testimonials */
   .content5 {
     margin-top: 100px;
-    height: 105vh;
+    height: 113vh;
   }
 
   .content5 .about-us-p1 {
