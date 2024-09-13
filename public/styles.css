@@ -1036,7 +1036,7 @@ video {
   animation-range-end: 500px;
 }
 
-.info-sub,
+.cards,
 .box,
 .grid,
 .row,
@@ -1606,7 +1606,7 @@ video {
   }
 
   .content3 {
-    height: 210vh;
+    height: 220vh;
   }
 
   .container {
