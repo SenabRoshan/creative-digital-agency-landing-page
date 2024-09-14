@@ -1465,7 +1465,7 @@ video {
   /* home  */
   .background-img {
     max-width: 500px;
-    min-height: 70vh;
+    min-height: 73vh;
   }
 
   #logo {
@@ -1503,7 +1503,7 @@ video {
   }
 
   #establish {
-    padding: 60px 30px;
+    padding: 10px 30px;
     font-size: 8px;
   }
   .fixed-container {
@@ -1683,14 +1683,14 @@ video {
   /* contact us section */
   .content6 {
     padding: 1.5rem;
-    height: 180vh;
+    height: 168vh;
   }
 
   .content6 .about-us-p1 {
     padding-bottom: 50px;
     display: flex;
     gap: 50px;
-    margin-top: -40px;
+    margin-top: -70px;
   }
 
   .content6 .white-bg {
@@ -1705,7 +1705,7 @@ video {
     width: 100%;
     margin-left: 0%;
     height: 935px;
-    margin-top: 30px;
+    margin-top: 20px;
   }
 
   .contact-info:before {
@@ -1809,7 +1809,7 @@ video {
 
   /* footer section */
   .footer {
-    height: 120vh;
+    height: 117vh;
     bottom: 0;
     padding: 50px 0;
   }
